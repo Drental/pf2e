@@ -2,7 +2,7 @@ name: PF2e System CD
 
 on:
   workflow_dispatch:
-    branches: [release]
+    branches: [fix-use-of-old-manifests-test]
 
 jobs:
   release:
